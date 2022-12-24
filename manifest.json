@@ -1,0 +1,20 @@
+{
+  "name": "Fireship",
+
+  "shortcuts": [
+    {
+      "name": "Activity Feed",
+      "short_name": "Feed",
+      "description": "View your activity feed",
+      "url": "/home.php",
+      "icons": [{ "src": "/icons/feed.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Recent Comments",
+      "short_name": "Comments",
+      "description": "View recent comments",
+      "url": "/comments?utm_source=homescreen",
+      "icons": [{ "src": "/icons/comments.png", "sizes": "192x192" }]
+    }
+  ]
+}
